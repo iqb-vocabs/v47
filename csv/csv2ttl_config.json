@@ -1,0 +1,83 @@
+{
+    "id": "2024Physik",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Physik MSA 2024"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v47",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards für die Kompetenzbereiche im Faches Physik"
+          }
+        ],
+        "filenameSource": "k1_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit dem Erwerb des Mittleren Schulabschlusses verfügen die Lernenden über Kompetenzen in den Naturwissenschaften im Allgemeinen sowie über Kompetenzen in der Physik im Besonderen.\n\nDie in der Sekundarstufe I erworbenen Kompetenzen und Inhalte bilden unter anderem die Grundlage für die unterrichtliche Arbeit in der Sekundarstufe II.\n\nDas den Bildungsstandards für den Mittleren Schulabschluss zugrunde liegende Modell der naturwissenschaftsbezogenen Kompetenzen umfasst die vier Kompetenzbereiche Sach-, Erkenntnisgewinnungs-, Kommunikations- und Bewertungskompetenz:\n\nDie Sachkompetenz der Lernenden zeigt sich in der Kenntnis naturwissenschaftlicher Begriffe, Konzepte, Gesetzmäßigkeiten, Theorien und Verfahren verbunden mit der Fähigkeit, diese zu beschreiben, zu erklären, sachgerecht zu nutzen und auf fach- und alltagsbezogene Sachverhalte zu übertragen.\n\nDie Erkenntnisgewinnungskompetenz der Lernenden zeigt sich in der Kenntnis grundlegender naturwissenschaftlicher Denk- und Arbeitsweisen verbunden mit der Fähigkeit, diese zu beschreiben, zu erklären, für Erkenntnisprozesse systematisch zu nutzen und deren Möglichkeiten und Grenzen zu reflektieren.\n\nDie Kommunikationskompetenz der Lernenden zeigt sich in der Kenntnis von Fachsprache und fachtypischen Darstellungen verbunden mit der Fähigkeit, daraus fachbezogene Informationen zu erschließen, diese adressaten- und situationsgerecht aufzubereiten und sich argumentativ auszutauschen.\n\nDie Bewertungskompetenz der Lernenden zeigt sich in der Kenntnis von fachlichen und überfachlichen Perspektiven und Bewertungsverfahren verbunden mit der Fähigkeit, Handlungsoptionen anhand verschiedener Kriterien zu beurteilen, um Entscheidungen auch auf ethischer Grundlage zu treffen, die Folgen abzuschätzen und Entscheidungsprozesse zu reflektieren.\n\nDiese vier Kompetenzbereiche durchdringen einander und bilden gemeinsam die Fachkompetenz im Fach Physik. Kompetenzen zeigen sich in der Verbindung von Kenntnissen und Fähigkeiten in den jeweiligen Kompetenzbereichen und sind nur im Umgang mit Inhalten zu erwerben. Die Kompetenzbereiche sind in Teilkompetenzbereiche untergliedert. Sie werden in Form von Regelstandards präzisiert, die von Lernenden bis zum Erreichen des Mittleren Schulabschlusses zu erwerben sind. Verbindliche inhaltliche Aspekte, anhand derer Kompetenzen erworben werden, sind im Kapitel Verbindliche inhaltliche Aspekte aufgeführt.\"\""
+          }
+        ]
+      },
+      {
+        "id": "b1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Basiskonzepte"
+          }
+        ],
+        "filenameSource": "b1_Basiskonzepte.csv",
+        "filenameTarget": "b1_Basiskonzepte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Der Beschreibung von physikalischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Physik ermöglichen die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulativ den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.\n\nDie Basiskonzepte bilden die Grundlage typischer Vorgehensweisen beim Lösen physikalischer Probleme und werden in Lehr-Lern-Prozessen wiederholt thematisiert und ausdifferenziert. Den Lernenden wird aufgezeigt, dass diese grundlegenden Konzepte in vielen verschiedenen Lernbereichen einsetzbar sind und einen systematischen Wissensaufbau und somit den Erwerb eines strukturierten und mit anderen Natur- und Ingenieurwissenschaften vernetzten Wissens unterstützen.\"\""
+          }
+        ]
+      },
+      {
+        "id": "i1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Verbindliche inhaltliche Aspekte"
+          }
+        ],
+        "filenameSource": "i1_Verbindliche_inhaltliche_Aspekte.csv",
+        "filenameTarget": "i1_Verbindliche_inhaltliche_Aspekte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Im Folgenden werden verbindliche Inhalte definiert, an denen die in Kapitel Kompetenzbereiche des Faches Physik beschriebenen Kompetenzen aller vier Kompetenzbereiche erlernt und überprüft werden. Für die Strukturierung wurden fünf Bereiche gewählt, die jedoch Überschneidungen aufweisen und daher nicht getrennt voneinander zu betrachten sind. Die inhaltlichen Aspekte sind so gewählt, dass landesspezifische Ergänzungen und Präzisierungen vorgenommen werden können. Dabei sind regionale und zeitgemäße Kontexte zu berücksichtigen.\n\nDie in den Klammern angegebenen Konkretisierungen sind Teil der verbindlichen Inhalte. Wenn im Folgenden Formeln angewandt, Rechnungen durchgeführt oder aus Diagrammen Gesetzmäßigkeiten abgeleitet werden sollen, wird dies durch die Angabe „quantitativ“ angezeigt.\"\""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche unterschieden:\"\""
+          }
+        ]
+      }
+    ]
+  }
