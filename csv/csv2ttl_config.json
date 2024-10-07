@@ -19,8 +19,8 @@
             "value": "Bildungsstandards für die Kompetenzbereiche im Faches Physik"
           }
         ],
-        "filenameSource": "k2_Kompetenzbereiche.csv",
-        "filenameTarget": "k2_Kompetenzbereiche.ttl",
+        "filenameSource": "k1_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Kompetenzbereiche.ttl",
         "description": [
           {
             "lang": "de",
